@@ -1,0 +1,7 @@
+echo "# RFID-BASED-UNIFIED-CITIZEN-SERVICE-MANAGEMENT-SYSTEM" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/ashismallik2003/RFID-BASED-UNIFIED-CITIZEN-SERVICE-MANAGEMENT-SYSTEM.git
+git push -u origin main
